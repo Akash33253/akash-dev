@@ -2,7 +2,7 @@
     {
       "company": "Carelon Global Solutions",
       "role": "Associate Software Engineer",
-      "logo": "https://your-asset-hosting.com/logos/carelon.png",
+      "logo": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/expImages/carelon.jpeg",
       "duration": "Aug 2023 – Present",
       "keyPoints": [
         "Developed and maintained Angular components in a large-scale app.",
@@ -15,7 +15,7 @@
     {
       "company": "Quantum Business Solutions",
       "role": "React.js & React Native Developer",
-      "logo": "https://your-asset-hosting.com/logos/qbs.png",
+      "logo": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/expImages/qbs.jpeg",
       "duration": "May 2023 – Aug 2023",
       "keyPoints": [
         "Led development of key mobile screens and navigation flows.",
@@ -27,7 +27,7 @@
     {
       "company": "Quantum Business Solutions",
       "role": "React.js & React Native Intern",
-      "logo": "https://your-asset-hosting.com/logos/qbs.png",
+      "logo": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/expImages/qbs.jpeg",
       "duration": "Jan 2023 – May 2023",
       "keyPoints": [
         "Built pixel-perfect mobile UIs using React Native and Expo.",

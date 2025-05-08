@@ -2,10 +2,13 @@ import React, { useContext, useState } from 'react'
 import lightMode from '../../src/assets/images/lightMode.png'
 import darkMode from '../../src/assets/images/darkMode.png'
 import { ThemeContext } from '../context/ThemeContext';
+import { FetchContext } from '../context/FetchContext';
 export default function Navbar() {
   const { theme, toggleTheme } = useContext(ThemeContext);
+  const context = useContext(FetchContext);
+  const {contact} = context;
   const handleOpenLink = () => {
-    window.open("https://drive.google.com/file/d/1wa8ge3HRv63tqSFBkULYbXRu6QZCmc_t/view?usp=drive_link", "_blank");
+    window.open(contact?.cv??'', "_blank");
   };
   const [showMenu, setShowMenu] = useState(false);
 
@@ -13,26 +16,6 @@ export default function Navbar() {
     setShowMenu(!showMenu);
   }
   return (
-    // <div id='nav' className='sticky top-0 z-30  w-full flex flex-row justify-between px-[100px] py-[16px]  items-center bg-light-default dark:bg-dark-default transition-colors duration-300'>
-    //   <a href="#main" className=''>
-    //     <img src={require('../assets/images/logoLight.png')} alt="" className='w-[32px] h-[32px] shadow-2xl cursor-pointer' />
-    //   </a>
-      // <div className='flex  flex-row items-center gap-[48px]'>
-      //   <ul className='flex flex-row gap-[24px] font-inter text-light-600 dark:text-dark-600 text-[24px] font-medium transition-colors duration-300'>
-      //     <li className='cursor-pointer'><a href="#about">About</a></li>
-      //     <li className='cursor-pointer'><a href="#skills">Skills</a></li>
-      //     <li className='cursor-pointer'><a href="#exp">Experience</a></li>
-      //     <li className='cursor-pointer'><a href="#projects">Projects</a></li>
-      //     <li className='cursor-pointer'><a href="#contact">Contact</a></li>
-      //   </ul>
-      //   <div className='flex  flex-row gap-[16px] items-center'>
-      //     <img className='w-[24px] cursor-pointer m-[6px] transition-colors duration-300' src={theme === 'light' ? lightMode : darkMode} onClick={toggleTheme} />
-      //     <div className='px-[16px] py-[6px] bg-light-900 hover:bg-light-600 dark:hover:bg-dark-600 dark:bg-dark-900 rounded-[12px] cursor-pointer transition-colors duration-300' onClick={handleOpenLink}>
-      //       <span className='text-[16px] font-medium text-light-50 dark:text-dark-50 font-inter transition-colors duration-300'>Download CV</span>
-      //     </div>
-      //   </div>
-      // </div>
-    // </div>
     <div id='nav' className={`sticky top-0 z-30 w-full flex flex-row justify-between px-[16px] sm:px-[24px] md:px-[80px]  py-[16px] items-center bg-light-default dark:bg-dark-default transition-colors duration-300`}>
       <a href="#main">
         <img src={require('../assets/images/logoLight.png')} alt="" className='w-[36px] h-[36px] sm:w-[42px] sm:h-[42px] md:w-[36px] md:h-[36px] shadow-2xl cursor-pointer' />

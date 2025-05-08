@@ -1,4 +1,4 @@
-import { useContext } from "react";
+import { useContext, useEffect } from "react";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Experience from "./components/Experience";
@@ -11,18 +11,26 @@ import { FetchContext } from "./context/FetchContext";
 
 function App() {
   const context = useContext(FetchContext);
-  const {getAboutData} = context;
-  getAboutData();
+  const { fetchAllData, about, exp, projects, skills, contact } = context;
+  useEffect(() => {
+    fetchAllData();
+  }, [])
+
+  console.log(about)
+  // console.log(skills)
+  // console.log(projects)
+  // console.log(contact)
+  // console.log(exp)
   return (
     <div className="App ">
-        <Navbar/>
-        <Main/>
-        <About/>
-        <Skills/>
-        <Experience/>
-        <Projects/>
-        <Contact/>
-        <Footer/>
+      <Navbar />
+      <Main />
+      <About />
+      <Skills />
+      <Experience />
+      <Projects />
+      <Contact />
+      <Footer />
     </div>
   );
 }
