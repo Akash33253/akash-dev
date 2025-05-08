@@ -1,0 +1,98 @@
+[
+    {
+      "name": "JavaScript",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "ReactJs",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "name": "C++",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+      "name": "ExpressJs",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+    },
+    {
+      "name": "Git",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    },
+    {
+      "name": "Java",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    },
+    {
+      "name": "Tailwind",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    },
+    {
+      "name": "SQL",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    },
+    {
+      "name": "MongoDB",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+    },
+    {
+      "name": "NodeJs",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "React Native",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "name": "Socket",
+      "logoLight": "https://raw.githubusercontent.com/your-username/your-repo/main/content/logos/socket-light.png",
+      "logoDark": "https://raw.githubusercontent.com/your-username/your-repo/main/content/logos/socket-dark.png"
+    },
+    {
+      "name": "Spring Boot",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+    },
+    {
+      "name": "Figma",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+    },
+    {
+      "name": "Angular",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+    },
+    {
+      "name": "Bootstrap",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+    },
+    {
+      "name": "Expo",
+      "logoLight": "https://raw.githubusercontent.com/your-username/your-repo/main/content/logos/expo-light.png",
+      "logoDark": "https://raw.githubusercontent.com/your-username/your-repo/main/content/logos/expo-dark.png"
+    },
+    {
+      "name": "C",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    },
+    {
+      "name": "GraphQL",
+      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg",
+      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+    }
+  ]
+  

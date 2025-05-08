@@ -1,0 +1,40 @@
+[
+    {
+      "company": "Carelon Global Solutions",
+      "role": "Associate Software Engineer",
+      "logo": "https://your-asset-hosting.com/logos/carelon.png",
+      "duration": "Aug 2023 – Present",
+      "keyPoints": [
+        "Developed and maintained Angular components in a large-scale app.",
+        "Built REST APIs using Spring Boot and Java.",
+        "Wrote complex SQL queries for enterprise data handling.",
+        "Collaborated in Agile teams and followed clean code practices.",
+        "Worked with JWT, microservices, and MongoDB in backend services."
+      ]
+    },
+    {
+      "company": "Quantum Business Solutions",
+      "role": "React.js & React Native Developer",
+      "logo": "https://your-asset-hosting.com/logos/qbs.png",
+      "duration": "May 2023 – Aug 2023",
+      "keyPoints": [
+        "Led development of key mobile screens and navigation flows.",
+        "Integrated third-party APIs and handled mobile data syncing.",
+        "Worked closely with the design team to match Figma UI precisely.",
+        "Optimized React and React Native code for performance."
+      ]
+    },
+    {
+      "company": "Quantum Business Solutions",
+      "role": "React.js & React Native Intern",
+      "logo": "https://your-asset-hosting.com/logos/qbs.png",
+      "duration": "Jan 2023 – May 2023",
+      "keyPoints": [
+        "Built pixel-perfect mobile UIs using React Native and Expo.",
+        "Collaborated with senior developers on component-based architecture.",
+        "Learned Git workflows, code reviews, and Agile practices.",
+        "Gained exposure to real-world React projects and REST API usage."
+      ]
+    }
+  ]
+  

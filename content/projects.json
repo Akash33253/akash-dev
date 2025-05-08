@@ -1,0 +1,27 @@
+[
+    {
+      "name": "CloudNotes",
+      "description": "A cloud-based note-taking web app with user authentication, CRUD operations, and responsive design.",
+      "thumbnail": "https://your-asset-hosting.com/thumbnails/cloudnotes.png",
+      "skills": ["React.js", "Express.js", "MongoDB", "Node.js", "Tailwind CSS", "JWT"],
+      "sourceCode": "https://github.com/yourusername/cloudnotes",
+      "liveDemo": "https://cloudnotes.vercel.app"
+    },
+    {
+      "name": "Levy",
+      "description": "A mobile expense manager app that allows tracking, budgeting, and visualizing monthly expenses.",
+      "thumbnail": "https://your-asset-hosting.com/thumbnails/levy.png",
+      "skills": ["React Native", "Expo", "MongoDB", "Express.js", "Node.js", "Tailwind CSS"],
+      "sourceCode": "https://github.com/yourusername/levy-app",
+      "liveDemo": "https://expo.dev/@yourusername/levy"
+    },
+    {
+      "name": "Portfolio Website",
+      "description": "My personal portfolio showcasing skills, projects, and experience with smooth UI/UX.",
+      "thumbnail": "https://your-asset-hosting.com/thumbnails/portfolio.png",
+      "skills": ["React.js", "Tailwind CSS", "Framer Motion"],
+      "sourceCode": "https://github.com/yourusername/portfolio",
+      "liveDemo": "https://yourname.vercel.app"
+    }
+  ]
+  
