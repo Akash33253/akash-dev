@@ -16,11 +16,7 @@ function App() {
     fetchAllData();
   }, [])
 
-  console.log(about)
-  // console.log(skills)
-  // console.log(projects)
-  // console.log(contact)
-  // console.log(exp)
+ 
   return (
     <div className="App ">
       <Navbar />
