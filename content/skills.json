@@ -17,7 +17,7 @@
     {
       "name": "ExpressJs",
       "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
-      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+      "logoDark": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/skillImages/expressDark.png"
     },
     {
       "name": "Git",
@@ -31,8 +31,8 @@
     },
     {
       "name": "Tailwind",
-      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
-      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+      "logoLight": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/skillImages/tailwind.png",
+      "logoDark": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/skillImages/tailwind.png"
     },
     {
       "name": "SQL",
@@ -56,8 +56,8 @@
     },
     {
       "name": "Socket",
-      "logoLight": "https://raw.githubusercontent.com/your-username/your-repo/main/content/logos/socket-light.png",
-      "logoDark": "https://raw.githubusercontent.com/your-username/your-repo/main/content/logos/socket-dark.png"
+      "logoLight": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/skillImages/socketLight.png",
+      "logoDark": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/skillImages/socketDark.png"
     },
     {
       "name": "Spring Boot",
@@ -76,13 +76,13 @@
     },
     {
       "name": "Bootstrap",
-      "logoLight": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg",
-      "logoDark": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+      "logoLight": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/skillImages/bootstrap.png",
+      "logoDark": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/skillImages/bootstrap.png"
     },
     {
       "name": "Expo",
-      "logoLight": "https://raw.githubusercontent.com/your-username/your-repo/main/content/logos/expo-light.png",
-      "logoDark": "https://raw.githubusercontent.com/your-username/your-repo/main/content/logos/expo-dark.png"
+      "logoLight": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/skillImages/expoLight.png",
+      "logoDark": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/skillImages/expoDark.png"
     },
     {
       "name": "C",
