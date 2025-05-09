@@ -12,7 +12,7 @@ export default function Projects() {
             gsap.from(image, {
                 opacity: 0,
                 y: 100, // Slide up animation for image only
-                duration: 1,
+                duration: 1.2,
                 ease: 'power2.out',
                 scrollTrigger: {
                     trigger: image, // Trigger animation when image comes into view
