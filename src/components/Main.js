@@ -9,6 +9,7 @@ import lightLeetcode from '../../src/assets/images/lightLeetcode.png'
 import darkLeetcode from '../../src/assets/images/darkLeetcode.png'
 import { ThemeContext } from '../context/ThemeContext'
 import { FetchContext } from '../context/FetchContext'
+import Typewriter from './Typewriter'
 export default function Main() {
     const context = useContext(ThemeContext);
     const { theme } = context;
@@ -18,7 +19,7 @@ export default function Main() {
         <div id='main' className='flex flex-col-reverse md:flex-row w-full py-[64px] sm:py-[70px] md:py-[86px] lg:py-[96px] px-[16px] sm:px-[24px] md:px-[80px] lg:px-[90px] bg-light-default items-center gap-[48px] md:gap-[80px] dark:bg-dark-default transition-colors duration-300 lg:justify-center'>
             <div className='flex flex-col gap-[48px] w-full md:w-[60%]'>
                 <div className='flex flex-col gap-[8px]'>
-                    <h1 className='text-[36px] md:text-[52px] sm:text-[42px] font-semibold md:font-bold font-inter text-light-900 dark:text-dark-900 transition-colors duration-300'>Hi, I’m {about?.name??''} 👋</h1>
+                    <h1 className='text-[36px] md:text-[52px] sm:text-[42px] font-semibold md:font-bold font-inter text-light-900 dark:text-dark-900 transition-colors duration-300'><Typewriter text={`Hi, I’m ${about?.name??''} 👋`} speed={80} /></h1>
                     <p className='text-[16px] text-light-600 dark:text-dark-600 transition-colors duration-300 font-inter'>{about?.shortDescription??''}</p>
                 </div>
                 <div className='flex flex-col gap-[8px]'>
