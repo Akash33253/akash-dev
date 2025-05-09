@@ -2,25 +2,41 @@
     {
       "name": "CloudNotes",
       "description": "A cloud-based note-taking web app with user authentication, CRUD operations, and responsive design.",
-      "thumbnail": "https://your-asset-hosting.com/thumbnails/cloudnotes.png",
-      "skills": ["React.js", "Express.js", "MongoDB", "Node.js", "Tailwind CSS", "JWT"],
-      "sourceCode": "https://github.com/yourusername/cloudnotes",
+      "thumbnail": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/projectImages/cloudnotes.png",
+      "skills": ["React.js", "Express.js", "MongoDB", "Node.js", "Bootstrap", "JWT"],
+      "sourceCode": "https://github.com/Akash33253/Cloudnotes",
       "liveDemo": "https://cloudnotes.vercel.app"
     },
     {
       "name": "Levy",
       "description": "A mobile expense manager app that allows tracking, budgeting, and visualizing monthly expenses.",
-      "thumbnail": "https://your-asset-hosting.com/thumbnails/levy.png",
-      "skills": ["React Native", "Expo", "MongoDB", "Express.js", "Node.js", "Tailwind CSS"],
-      "sourceCode": "https://github.com/yourusername/levy-app",
+      "thumbnail": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/projectImages/levy.png",
+      "skills": ["React Native", "Expo", "MongoDB", "Express.js", "Node.js", "Tailwind CSS","Git"],
+      "sourceCode": "https://github.com/Akash33253/Levy",
       "liveDemo": "https://expo.dev/@yourusername/levy"
     },
     {
-      "name": "Portfolio Website",
+      "name": "Fresh Junction",
+      "description": "Fresh Junction is a fully responsive web app designed for restaurants, making it easy for customers to order food and book tables effortlessly on any device",
+      "thumbnail": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/projectImages/freshJunction.png",
+      "skills": ["React Js", "CSS", "EmailJs", "Git"],
+      "sourceCode": "https://akash33253.github.io/Fresh-Junction/#/",
+      "liveDemo": "https://akash33253.github.io/Fresh-Junction/#/"
+    },
+    {
+      "name": "Image Gallery",
+      "description": "Image Gallery is a dynamic and responsive image search application built with React.js. The app allows users to generate and explore images based on any keyword input by leveraging an external image generation API. ",
+      "thumbnail": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/projectImages/imageGallery.png",
+      "skills": ["React Js", "Bootstrap", "RestApi", "Git"],
+      "sourceCode": "https://akash33253.github.io/ImageGallery/",
+      "liveDemo": "https://akash33253.github.io/ImageGallery/"
+    },
+    {
+      "name": "Portfolio Akash-dev",
       "description": "My personal portfolio showcasing skills, projects, and experience with smooth UI/UX.",
-      "thumbnail": "https://your-asset-hosting.com/thumbnails/portfolio.png",
-      "skills": ["React.js", "Tailwind CSS", "Framer Motion"],
-      "sourceCode": "https://github.com/yourusername/portfolio",
+      "thumbnail": "https://raw.githubusercontent.com/Akash33253/akash-dev/main/content/images/projectImages/akashDev.png",
+      "skills": ["React.js", "Tailwind CSS","Git"],
+      "sourceCode": "https://github.com/Akash33253/akash-dev",
       "liveDemo": "https://yourname.vercel.app"
     }
   ]
